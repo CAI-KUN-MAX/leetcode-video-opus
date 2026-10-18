@@ -36,8 +36,8 @@ importers:
         specifier: ^4.5.0
         version: 4.5.0
       zod:
-        specifier: ^4.6.7
-        version: 4.6.7
+        specifier: ^4.5.4
+        version: 4.5.4
     devDependencies:
       '@remotion/eslint-config-flat':
         specifier: 4.0.536
