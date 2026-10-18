@@ -43,6 +43,7 @@ export const ProblemVideo: React.FC<ProblemVideoProps> = ({
           <SceneVisual scene={scene} />
           <Subtitle
             words={audio.words}
+            narration={scene.narration}
             sceneDurationMs={audio.totalMs}
             holdMs={audio.holdMs}
           />
