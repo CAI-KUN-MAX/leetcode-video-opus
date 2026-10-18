@@ -10,6 +10,7 @@ import { buildTimeline, getManifest } from "../lib/manifest";
 import { TitleCard } from "../components/TitleCard";
 import { Bullets } from "../components/Bullets";
 import { CodeBlock } from "../components/CodeBlock";
+import { ArrayViz } from "../components/ArrayViz";
 import { Subtitle } from "../components/Subtitle";
 
 export type ProblemVideoProps = {
@@ -66,6 +67,8 @@ const SceneVisual: React.FC<{ scene: Scene }> = ({ scene }) => {
       return <Bullets visual={scene.visual} />;
     case "code":
       return <CodeBlock visual={scene.visual} />;
+    case "array":
+      return <ArrayViz visual={scene.visual} />;
     default:
       return (
         <Placeholder
