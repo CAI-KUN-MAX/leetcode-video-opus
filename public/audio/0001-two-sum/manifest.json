@@ -1,0 +1,4467 @@
+{
+  "version": 1,
+  "problemId": "0001-two-sum",
+  "voice": "aixia",
+  "speechRate": 0,
+  "format": "wav",
+  "generatedAt": "2026-10-18T15:05:46.103Z",
+  "totalMs": 186979,
+  "scenes": [
+    {
+      "id": "intro",
+      "file": "audio/0001-two-sum/intro.wav",
+      "durationMs": 11150,
+      "holdMs": 400,
+      "totalMs": 11550,
+      "words": [
+        {
+          "text": "大",
+          "beginMs": 0,
+          "endMs": 130
+        },
+        {
+          "text": "家",
+          "beginMs": 130,
+          "endMs": 310
+        },
+        {
+          "text": "好",
+          "beginMs": 310,
+          "endMs": 649
+        },
+        {
+          "text": "欢",
+          "beginMs": 849,
+          "endMs": 990
+        },
+        {
+          "text": "迎",
+          "beginMs": 990,
+          "endMs": 1150
+        },
+        {
+          "text": "来",
+          "beginMs": 1150,
+          "endMs": 1300
+        },
+        {
+          "text": "到",
+          "beginMs": 1300,
+          "endMs": 1510
+        },
+        {
+          "text": "LeetCode",
+          "beginMs": 1510,
+          "endMs": 1949
+        },
+        {
+          "text": "题",
+          "beginMs": 1949,
+          "endMs": 2110
+        },
+        {
+          "text": "解",
+          "beginMs": 2110,
+          "endMs": 2240
+        },
+        {
+          "text": "系",
+          "beginMs": 2240,
+          "endMs": 2430
+        },
+        {
+          "text": "列",
+          "beginMs": 2430,
+          "endMs": 2669
+        },
+        {
+          "text": "今",
+          "beginMs": 3119,
+          "endMs": 3280
+        },
+        {
+          "text": "天",
+          "beginMs": 3280,
+          "endMs": 3399
+        },
+        {
+          "text": "我",
+          "beginMs": 3399,
+          "endMs": 3530
+        },
+        {
+          "text": "们",
+          "beginMs": 3530,
+          "endMs": 3629
+        },
+        {
+          "text": "来",
+          "beginMs": 3629,
+          "endMs": 3780
+        },
+        {
+          "text": "看",
+          "beginMs": 3780,
+          "endMs": 3979
+        },
+        {
+          "text": "第",
+          "beginMs": 3979,
+          "endMs": 4130
+        },
+        {
+          "text": "一",
+          "beginMs": 4130,
+          "endMs": 4269
+        },
+        {
+          "text": "题",
+          "beginMs": 4269,
+          "endMs": 4599
+        },
+        {
+          "text": "两",
+          "beginMs": 4670,
+          "endMs": 4829
+        },
+        {
+          "text": "数",
+          "beginMs": 4829,
+          "endMs": 4990
+        },
+        {
+          "text": "之",
+          "beginMs": 4990,
+          "endMs": 5170
+        },
+        {
+          "text": "和",
+          "beginMs": 5170,
+          "endMs": 5559
+        },
+        {
+          "text": "这",
+          "beginMs": 6009,
+          "endMs": 6159
+        },
+        {
+          "text": "道",
+          "beginMs": 6159,
+          "endMs": 6309
+        },
+        {
+          "text": "题",
+          "beginMs": 6309,
+          "endMs": 6509
+        },
+        {
+          "text": "是",
+          "beginMs": 6509,
+          "endMs": 6659
+        },
+        {
+          "text": "很",
+          "beginMs": 6659,
+          "endMs": 6829
+        },
+        {
+          "text": "多",
+          "beginMs": 6829,
+          "endMs": 6959
+        },
+        {
+          "text": "人",
+          "beginMs": 6959,
+          "endMs": 7079
+        },
+        {
+          "text": "的",
+          "beginMs": 7079,
+          "endMs": 7169
+        },
+        {
+          "text": "第",
+          "beginMs": 7169,
+          "endMs": 7329
+        },
+        {
+          "text": "一",
+          "beginMs": 7329,
+          "endMs": 7429
+        },
+        {
+          "text": "道",
+          "beginMs": 7429,
+          "endMs": 7589
+        },
+        {
+          "text": "LeetCode",
+          "beginMs": 7589,
+          "endMs": 8150
+        },
+        {
+          "text": "也",
+          "beginMs": 8270,
+          "endMs": 8339
+        },
+        {
+          "text": "是",
+          "beginMs": 8339,
+          "endMs": 8529
+        },
+        {
+          "text": "面",
+          "beginMs": 8529,
+          "endMs": 8690
+        },
+        {
+          "text": "试",
+          "beginMs": 8690,
+          "endMs": 8869
+        },
+        {
+          "text": "里",
+          "beginMs": 8869,
+          "endMs": 9110
+        },
+        {
+          "text": "出",
+          "beginMs": 9379,
+          "endMs": 9539
+        },
+        {
+          "text": "现",
+          "beginMs": 9539,
+          "endMs": 9709
+        },
+        {
+          "text": "频",
+          "beginMs": 9709,
+          "endMs": 9869
+        },
+        {
+          "text": "率",
+          "beginMs": 9869,
+          "endMs": 9999
+        },
+        {
+          "text": "最",
+          "beginMs": 9999,
+          "endMs": 10140
+        },
+        {
+          "text": "高",
+          "beginMs": 10140,
+          "endMs": 10279
+        },
+        {
+          "text": "的",
+          "beginMs": 10279,
+          "endMs": 10379
+        },
+        {
+          "text": "题",
+          "beginMs": 10379,
+          "endMs": 10549
+        },
+        {
+          "text": "目",
+          "beginMs": 10549,
+          "endMs": 10659
+        },
+        {
+          "text": "之",
+          "beginMs": 10659,
+          "endMs": 10829
+        },
+        {
+          "text": "一",
+          "beginMs": 10829,
+          "endMs": 11089
+        }
+      ]
+    },
+    {
+      "id": "problem",
+      "file": "audio/0001-two-sum/problem.wav",
+      "durationMs": 15284,
+      "holdMs": 400,
+      "totalMs": 15684,
+      "words": [
+        {
+          "text": "先",
+          "beginMs": 0,
+          "endMs": 169
+        },
+        {
+          "text": "看",
+          "beginMs": 169,
+          "endMs": 349
+        },
+        {
+          "text": "题",
+          "beginMs": 349,
+          "endMs": 520
+        },
+        {
+          "text": "目",
+          "beginMs": 520,
+          "endMs": 810
+        },
+        {
+          "text": "给",
+          "beginMs": 1260,
+          "endMs": 1410
+        },
+        {
+          "text": "定",
+          "beginMs": 1410,
+          "endMs": 1520
+        },
+        {
+          "text": "一",
+          "beginMs": 1520,
+          "endMs": 1640
+        },
+        {
+          "text": "个",
+          "beginMs": 1640,
+          "endMs": 1720
+        },
+        {
+          "text": "整",
+          "beginMs": 1720,
+          "endMs": 1870
+        },
+        {
+          "text": "数",
+          "beginMs": 1870,
+          "endMs": 2010
+        },
+        {
+          "text": "数",
+          "beginMs": 2010,
+          "endMs": 2200
+        },
+        {
+          "text": "组",
+          "beginMs": 2200,
+          "endMs": 2379
+        },
+        {
+          "text": "nums",
+          "beginMs": 2379,
+          "endMs": 2720
+        },
+        {
+          "text": "和",
+          "beginMs": 2720,
+          "endMs": 2869
+        },
+        {
+          "text": "一",
+          "beginMs": 2869,
+          "endMs": 2970
+        },
+        {
+          "text": "个",
+          "beginMs": 2970,
+          "endMs": 3050
+        },
+        {
+          "text": "目",
+          "beginMs": 3050,
+          "endMs": 3210
+        },
+        {
+          "text": "标",
+          "beginMs": 3210,
+          "endMs": 3460
+        },
+        {
+          "text": "值",
+          "beginMs": 3460,
+          "endMs": 3770
+        },
+        {
+          "text": "target",
+          "beginMs": 4039,
+          "endMs": 4610
+        },
+        {
+          "text": "请",
+          "beginMs": 4720,
+          "endMs": 4900
+        },
+        {
+          "text": "你",
+          "beginMs": 4900,
+          "endMs": 4999
+        },
+        {
+          "text": "找",
+          "beginMs": 4999,
+          "endMs": 5160
+        },
+        {
+          "text": "出",
+          "beginMs": 5160,
+          "endMs": 5309
+        },
+        {
+          "text": "数",
+          "beginMs": 5309,
+          "endMs": 5470
+        },
+        {
+          "text": "组",
+          "beginMs": 5470,
+          "endMs": 5630
+        },
+        {
+          "text": "中",
+          "beginMs": 5630,
+          "endMs": 5780
+        },
+        {
+          "text": "的",
+          "beginMs": 5780,
+          "endMs": 5849
+        },
+        {
+          "text": "两",
+          "beginMs": 5849,
+          "endMs": 6030
+        },
+        {
+          "text": "个",
+          "beginMs": 6030,
+          "endMs": 6150
+        },
+        {
+          "text": "数",
+          "beginMs": 6150,
+          "endMs": 6510
+        },
+        {
+          "text": "让",
+          "beginMs": 6784,
+          "endMs": 6924
+        },
+        {
+          "text": "它",
+          "beginMs": 6924,
+          "endMs": 7064
+        },
+        {
+          "text": "们",
+          "beginMs": 7064,
+          "endMs": 7194
+        },
+        {
+          "text": "的",
+          "beginMs": 7194,
+          "endMs": 7254
+        },
+        {
+          "text": "和",
+          "beginMs": 7254,
+          "endMs": 7404
+        },
+        {
+          "text": "等",
+          "beginMs": 7404,
+          "endMs": 7534
+        },
+        {
+          "text": "于",
+          "beginMs": 7534,
+          "endMs": 7704
+        },
+        {
+          "text": "target",
+          "beginMs": 7704,
+          "endMs": 8304
+        },
+        {
+          "text": "然",
+          "beginMs": 8504,
+          "endMs": 8614
+        },
+        {
+          "text": "后",
+          "beginMs": 8614,
+          "endMs": 8754
+        },
+        {
+          "text": "返",
+          "beginMs": 8754,
+          "endMs": 8894
+        },
+        {
+          "text": "回",
+          "beginMs": 8894,
+          "endMs": 9064
+        },
+        {
+          "text": "这",
+          "beginMs": 9064,
+          "endMs": 9184
+        },
+        {
+          "text": "两",
+          "beginMs": 9184,
+          "endMs": 9344
+        },
+        {
+          "text": "个",
+          "beginMs": 9344,
+          "endMs": 9454
+        },
+        {
+          "text": "数",
+          "beginMs": 9454,
+          "endMs": 9614
+        },
+        {
+          "text": "的",
+          "beginMs": 9614,
+          "endMs": 9694
+        },
+        {
+          "text": "下",
+          "beginMs": 9694,
+          "endMs": 9884
+        },
+        {
+          "text": "标",
+          "beginMs": 9884,
+          "endMs": 10164
+        },
+        {
+          "text": "题",
+          "beginMs": 10614,
+          "endMs": 10774
+        },
+        {
+          "text": "目",
+          "beginMs": 10774,
+          "endMs": 10904
+        },
+        {
+          "text": "保",
+          "beginMs": 10904,
+          "endMs": 11064
+        },
+        {
+          "text": "证",
+          "beginMs": 11064,
+          "endMs": 11224
+        },
+        {
+          "text": "每",
+          "beginMs": 11224,
+          "endMs": 11384
+        },
+        {
+          "text": "种",
+          "beginMs": 11384,
+          "endMs": 11554
+        },
+        {
+          "text": "输",
+          "beginMs": 11554,
+          "endMs": 11734
+        },
+        {
+          "text": "入",
+          "beginMs": 11734,
+          "endMs": 11944
+        },
+        {
+          "text": "只",
+          "beginMs": 11944,
+          "endMs": 12064
+        },
+        {
+          "text": "有",
+          "beginMs": 12064,
+          "endMs": 12134
+        },
+        {
+          "text": "一",
+          "beginMs": 12134,
+          "endMs": 12254
+        },
+        {
+          "text": "个",
+          "beginMs": 12254,
+          "endMs": 12364
+        },
+        {
+          "text": "答",
+          "beginMs": 12364,
+          "endMs": 12544
+        },
+        {
+          "text": "案",
+          "beginMs": 12544,
+          "endMs": 12764
+        },
+        {
+          "text": "而",
+          "beginMs": 13024,
+          "endMs": 13154
+        },
+        {
+          "text": "且",
+          "beginMs": 13154,
+          "endMs": 13344
+        },
+        {
+          "text": "同",
+          "beginMs": 13344,
+          "endMs": 13524
+        },
+        {
+          "text": "一",
+          "beginMs": 13524,
+          "endMs": 13624
+        },
+        {
+          "text": "个",
+          "beginMs": 13624,
+          "endMs": 13724
+        },
+        {
+          "text": "元",
+          "beginMs": 13724,
+          "endMs": 13894
+        },
+        {
+          "text": "素",
+          "beginMs": 13894,
+          "endMs": 14094
+        },
+        {
+          "text": "不",
+          "beginMs": 14094,
+          "endMs": 14214
+        },
+        {
+          "text": "能",
+          "beginMs": 14214,
+          "endMs": 14364
+        },
+        {
+          "text": "重",
+          "beginMs": 14364,
+          "endMs": 14584
+        },
+        {
+          "text": "复",
+          "beginMs": 14584,
+          "endMs": 14764
+        },
+        {
+          "text": "使",
+          "beginMs": 14764,
+          "endMs": 14934
+        },
+        {
+          "text": "用",
+          "beginMs": 14934,
+          "endMs": 15224
+        }
+      ]
+    },
+    {
+      "id": "example",
+      "file": "audio/0001-two-sum/example.wav",
+      "durationMs": 8770,
+      "holdMs": 400,
+      "totalMs": 9170,
+      "words": [
+        {
+          "text": "看",
+          "beginMs": 0,
+          "endMs": 130
+        },
+        {
+          "text": "一",
+          "beginMs": 130,
+          "endMs": 230
+        },
+        {
+          "text": "个",
+          "beginMs": 230,
+          "endMs": 300
+        },
+        {
+          "text": "示",
+          "beginMs": 300,
+          "endMs": 479
+        },
+        {
+          "text": "例",
+          "beginMs": 479,
+          "endMs": 789
+        },
+        {
+          "text": "数",
+          "beginMs": 1240,
+          "endMs": 1390
+        },
+        {
+          "text": "组",
+          "beginMs": 1390,
+          "endMs": 1540
+        },
+        {
+          "text": "是",
+          "beginMs": 1540,
+          "endMs": 1710
+        },
+        {
+          "text": "二",
+          "beginMs": 1710,
+          "endMs": 2000
+        },
+        {
+          "text": "七",
+          "beginMs": 2200,
+          "endMs": 2530
+        },
+        {
+          "text": "十",
+          "beginMs": 2600,
+          "endMs": 2800
+        },
+        {
+          "text": "一",
+          "beginMs": 2800,
+          "endMs": 3040
+        },
+        {
+          "text": "十",
+          "beginMs": 3240,
+          "endMs": 3440
+        },
+        {
+          "text": "五",
+          "beginMs": 3440,
+          "endMs": 3720
+        },
+        {
+          "text": "目",
+          "beginMs": 3930,
+          "endMs": 4030
+        },
+        {
+          "text": "标",
+          "beginMs": 4030,
+          "endMs": 4269
+        },
+        {
+          "text": "值",
+          "beginMs": 4269,
+          "endMs": 4450
+        },
+        {
+          "text": "是",
+          "beginMs": 4450,
+          "endMs": 4630
+        },
+        {
+          "text": "九",
+          "beginMs": 4630,
+          "endMs": 5030
+        },
+        {
+          "text": "因",
+          "beginMs": 5480,
+          "endMs": 5570
+        },
+        {
+          "text": "为",
+          "beginMs": 5570,
+          "endMs": 5670
+        },
+        {
+          "text": "二",
+          "beginMs": 5670,
+          "endMs": 5789
+        },
+        {
+          "text": "加",
+          "beginMs": 5789,
+          "endMs": 5969
+        },
+        {
+          "text": "七",
+          "beginMs": 5969,
+          "endMs": 6170
+        },
+        {
+          "text": "等",
+          "beginMs": 6170,
+          "endMs": 6309
+        },
+        {
+          "text": "于",
+          "beginMs": 6309,
+          "endMs": 6480
+        },
+        {
+          "text": "九",
+          "beginMs": 6480,
+          "endMs": 6769
+        },
+        {
+          "text": "所",
+          "beginMs": 7039,
+          "endMs": 7179
+        },
+        {
+          "text": "以",
+          "beginMs": 7179,
+          "endMs": 7280
+        },
+        {
+          "text": "答",
+          "beginMs": 7280,
+          "endMs": 7420
+        },
+        {
+          "text": "案",
+          "beginMs": 7420,
+          "endMs": 7550
+        },
+        {
+          "text": "是",
+          "beginMs": 7550,
+          "endMs": 7699
+        },
+        {
+          "text": "下",
+          "beginMs": 7699,
+          "endMs": 7889
+        },
+        {
+          "text": "标",
+          "beginMs": 7889,
+          "endMs": 8059
+        },
+        {
+          "text": "零",
+          "beginMs": 8059,
+          "endMs": 8240
+        },
+        {
+          "text": "和",
+          "beginMs": 8240,
+          "endMs": 8430
+        },
+        {
+          "text": "一",
+          "beginMs": 8430,
+          "endMs": 8709
+        }
+      ]
+    },
+    {
+      "id": "brute-force",
+      "file": "audio/0001-two-sum/brute-force.wav",
+      "durationMs": 14280,
+      "holdMs": 400,
+      "totalMs": 14680,
+      "words": [
+        {
+          "text": "最",
+          "beginMs": 0,
+          "endMs": 130
+        },
+        {
+          "text": "直",
+          "beginMs": 130,
+          "endMs": 259
+        },
+        {
+          "text": "接",
+          "beginMs": 259,
+          "endMs": 419
+        },
+        {
+          "text": "的",
+          "beginMs": 419,
+          "endMs": 510
+        },
+        {
+          "text": "想",
+          "beginMs": 510,
+          "endMs": 719
+        },
+        {
+          "text": "法",
+          "beginMs": 719,
+          "endMs": 959
+        },
+        {
+          "text": "是",
+          "beginMs": 959,
+          "endMs": 1130
+        },
+        {
+          "text": "暴",
+          "beginMs": 1130,
+          "endMs": 1319
+        },
+        {
+          "text": "力",
+          "beginMs": 1319,
+          "endMs": 1459
+        },
+        {
+          "text": "枚",
+          "beginMs": 1459,
+          "endMs": 1670
+        },
+        {
+          "text": "举",
+          "beginMs": 1670,
+          "endMs": 1959
+        },
+        {
+          "text": "用",
+          "beginMs": 2409,
+          "endMs": 2540
+        },
+        {
+          "text": "两",
+          "beginMs": 2540,
+          "endMs": 2739
+        },
+        {
+          "text": "层",
+          "beginMs": 2739,
+          "endMs": 2899
+        },
+        {
+          "text": "循",
+          "beginMs": 2899,
+          "endMs": 3080
+        },
+        {
+          "text": "环",
+          "beginMs": 3080,
+          "endMs": 3279
+        },
+        {
+          "text": "检",
+          "beginMs": 3279,
+          "endMs": 3459
+        },
+        {
+          "text": "查",
+          "beginMs": 3459,
+          "endMs": 3629
+        },
+        {
+          "text": "每",
+          "beginMs": 3629,
+          "endMs": 3779
+        },
+        {
+          "text": "一",
+          "beginMs": 3779,
+          "endMs": 3879
+        },
+        {
+          "text": "对",
+          "beginMs": 3879,
+          "endMs": 4059
+        },
+        {
+          "text": "数",
+          "beginMs": 4059,
+          "endMs": 4380
+        },
+        {
+          "text": "如",
+          "beginMs": 4630,
+          "endMs": 4730
+        },
+        {
+          "text": "果",
+          "beginMs": 4730,
+          "endMs": 4860
+        },
+        {
+          "text": "和",
+          "beginMs": 4860,
+          "endMs": 4999
+        },
+        {
+          "text": "等",
+          "beginMs": 4999,
+          "endMs": 5130
+        },
+        {
+          "text": "于",
+          "beginMs": 5130,
+          "endMs": 5260
+        },
+        {
+          "text": "target",
+          "beginMs": 5260,
+          "endMs": 5730
+        },
+        {
+          "text": "就",
+          "beginMs": 5730,
+          "endMs": 5860
+        },
+        {
+          "text": "返",
+          "beginMs": 5860,
+          "endMs": 6030
+        },
+        {
+          "text": "回",
+          "beginMs": 6030,
+          "endMs": 6360
+        },
+        {
+          "text": "它",
+          "beginMs": 6809,
+          "endMs": 6960
+        },
+        {
+          "text": "的",
+          "beginMs": 6960,
+          "endMs": 7019
+        },
+        {
+          "text": "时",
+          "beginMs": 7019,
+          "endMs": 7199
+        },
+        {
+          "text": "间",
+          "beginMs": 7199,
+          "endMs": 7420
+        },
+        {
+          "text": "复",
+          "beginMs": 7420,
+          "endMs": 7569
+        },
+        {
+          "text": "杂",
+          "beginMs": 7569,
+          "endMs": 7759
+        },
+        {
+          "text": "度",
+          "beginMs": 7759,
+          "endMs": 7960
+        },
+        {
+          "text": "是",
+          "beginMs": 7960,
+          "endMs": 8190
+        },
+        {
+          "text": "O",
+          "beginMs": 8190,
+          "endMs": 8410
+        },
+        {
+          "text": "n",
+          "beginMs": 8509,
+          "endMs": 8759
+        },
+        {
+          "text": "数",
+          "beginMs": 8900,
+          "endMs": 9089
+        },
+        {
+          "text": "组",
+          "beginMs": 9089,
+          "endMs": 9249
+        },
+        {
+          "text": "中",
+          "beginMs": 9249,
+          "endMs": 9390
+        },
+        {
+          "text": "有",
+          "beginMs": 9390,
+          "endMs": 9509
+        },
+        {
+          "text": "一",
+          "beginMs": 9509,
+          "endMs": 9619
+        },
+        {
+          "text": "万",
+          "beginMs": 9619,
+          "endMs": 9799
+        },
+        {
+          "text": "个",
+          "beginMs": 9799,
+          "endMs": 9940
+        },
+        {
+          "text": "数",
+          "beginMs": 9940,
+          "endMs": 10129
+        },
+        {
+          "text": "时",
+          "beginMs": 10129,
+          "endMs": 10459
+        },
+        {
+          "text": "最",
+          "beginMs": 10730,
+          "endMs": 10869
+        },
+        {
+          "text": "坏",
+          "beginMs": 10869,
+          "endMs": 11060
+        },
+        {
+          "text": "情",
+          "beginMs": 11060,
+          "endMs": 11220
+        },
+        {
+          "text": "况",
+          "beginMs": 11220,
+          "endMs": 11390
+        },
+        {
+          "text": "下",
+          "beginMs": 11390,
+          "endMs": 11549
+        },
+        {
+          "text": "要",
+          "beginMs": 11549,
+          "endMs": 11730
+        },
+        {
+          "text": "检",
+          "beginMs": 11730,
+          "endMs": 11879
+        },
+        {
+          "text": "查",
+          "beginMs": 11879,
+          "endMs": 12060
+        },
+        {
+          "text": "接",
+          "beginMs": 12060,
+          "endMs": 12220
+        },
+        {
+          "text": "近",
+          "beginMs": 12220,
+          "endMs": 12379
+        },
+        {
+          "text": "一",
+          "beginMs": 12379,
+          "endMs": 12509
+        },
+        {
+          "text": "亿",
+          "beginMs": 12509,
+          "endMs": 12680
+        },
+        {
+          "text": "次",
+          "beginMs": 12680,
+          "endMs": 12990
+        },
+        {
+          "text": "显",
+          "beginMs": 13270,
+          "endMs": 13419
+        },
+        {
+          "text": "然",
+          "beginMs": 13419,
+          "endMs": 13560
+        },
+        {
+          "text": "不",
+          "beginMs": 13560,
+          "endMs": 13669
+        },
+        {
+          "text": "够",
+          "beginMs": 13669,
+          "endMs": 13850
+        },
+        {
+          "text": "快",
+          "beginMs": 13850,
+          "endMs": 14220
+        }
+      ]
+    },
+    {
+      "id": "two-pointer-idea",
+      "file": "audio/0001-two-sum/two-pointer-idea.wav",
+      "durationMs": 14240,
+      "holdMs": 400,
+      "totalMs": 14640,
+      "words": [
+        {
+          "text": "在",
+          "beginMs": 0,
+          "endMs": 139
+        },
+        {
+          "text": "继",
+          "beginMs": 139,
+          "endMs": 289
+        },
+        {
+          "text": "续",
+          "beginMs": 289,
+          "endMs": 430
+        },
+        {
+          "text": "优",
+          "beginMs": 430,
+          "endMs": 570
+        },
+        {
+          "text": "化",
+          "beginMs": 570,
+          "endMs": 760
+        },
+        {
+          "text": "之",
+          "beginMs": 760,
+          "endMs": 909
+        },
+        {
+          "text": "前",
+          "beginMs": 909,
+          "endMs": 1280
+        },
+        {
+          "text": "先",
+          "beginMs": 1490,
+          "endMs": 1670
+        },
+        {
+          "text": "看",
+          "beginMs": 1670,
+          "endMs": 1819
+        },
+        {
+          "text": "一",
+          "beginMs": 1819,
+          "endMs": 1929
+        },
+        {
+          "text": "个",
+          "beginMs": 1929,
+          "endMs": 2030
+        },
+        {
+          "text": "直",
+          "beginMs": 2030,
+          "endMs": 2180
+        },
+        {
+          "text": "觉",
+          "beginMs": 2180,
+          "endMs": 2330
+        },
+        {
+          "text": "上",
+          "beginMs": 2330,
+          "endMs": 2560
+        },
+        {
+          "text": "更",
+          "beginMs": 2560,
+          "endMs": 2700
+        },
+        {
+          "text": "快",
+          "beginMs": 2700,
+          "endMs": 2869
+        },
+        {
+          "text": "的",
+          "beginMs": 2869,
+          "endMs": 2940
+        },
+        {
+          "text": "想",
+          "beginMs": 2940,
+          "endMs": 3169
+        },
+        {
+          "text": "法",
+          "beginMs": 3169,
+          "endMs": 3470
+        },
+        {
+          "text": "双",
+          "beginMs": 3740,
+          "endMs": 3939
+        },
+        {
+          "text": "指",
+          "beginMs": 3939,
+          "endMs": 4079
+        },
+        {
+          "text": "针",
+          "beginMs": 4079,
+          "endMs": 4420
+        },
+        {
+          "text": "因",
+          "beginMs": 4870,
+          "endMs": 4950
+        },
+        {
+          "text": "为",
+          "beginMs": 4950,
+          "endMs": 5040
+        },
+        {
+          "text": "示",
+          "beginMs": 5040,
+          "endMs": 5210
+        },
+        {
+          "text": "例",
+          "beginMs": 5210,
+          "endMs": 5340
+        },
+        {
+          "text": "数",
+          "beginMs": 5340,
+          "endMs": 5520
+        },
+        {
+          "text": "组",
+          "beginMs": 5520,
+          "endMs": 5670
+        },
+        {
+          "text": "恰",
+          "beginMs": 5670,
+          "endMs": 5860
+        },
+        {
+          "text": "好",
+          "beginMs": 5860,
+          "endMs": 6060
+        },
+        {
+          "text": "是",
+          "beginMs": 6060,
+          "endMs": 6290
+        },
+        {
+          "text": "升",
+          "beginMs": 6290,
+          "endMs": 6510
+        },
+        {
+          "text": "序",
+          "beginMs": 6510,
+          "endMs": 6700
+        },
+        {
+          "text": "的",
+          "beginMs": 6700,
+          "endMs": 6930
+        },
+        {
+          "text": "我",
+          "beginMs": 7120,
+          "endMs": 7190
+        },
+        {
+          "text": "们",
+          "beginMs": 7190,
+          "endMs": 7280
+        },
+        {
+          "text": "可",
+          "beginMs": 7280,
+          "endMs": 7410
+        },
+        {
+          "text": "以",
+          "beginMs": 7410,
+          "endMs": 7490
+        },
+        {
+          "text": "让",
+          "beginMs": 7490,
+          "endMs": 7630
+        },
+        {
+          "text": "首",
+          "beginMs": 7630,
+          "endMs": 7810
+        },
+        {
+          "text": "尾",
+          "beginMs": 7810,
+          "endMs": 7980
+        },
+        {
+          "text": "两",
+          "beginMs": 7980,
+          "endMs": 8170
+        },
+        {
+          "text": "个",
+          "beginMs": 8170,
+          "endMs": 8250
+        },
+        {
+          "text": "指",
+          "beginMs": 8250,
+          "endMs": 8400
+        },
+        {
+          "text": "针",
+          "beginMs": 8400,
+          "endMs": 8580
+        },
+        {
+          "text": "向",
+          "beginMs": 8580,
+          "endMs": 8770
+        },
+        {
+          "text": "中",
+          "beginMs": 8770,
+          "endMs": 8920
+        },
+        {
+          "text": "间",
+          "beginMs": 8920,
+          "endMs": 9080
+        },
+        {
+          "text": "靠",
+          "beginMs": 9080,
+          "endMs": 9290
+        },
+        {
+          "text": "拢",
+          "beginMs": 9290,
+          "endMs": 9560
+        },
+        {
+          "text": "两",
+          "beginMs": 9770,
+          "endMs": 9900
+        },
+        {
+          "text": "数",
+          "beginMs": 9900,
+          "endMs": 10050
+        },
+        {
+          "text": "之",
+          "beginMs": 10050,
+          "endMs": 10180
+        },
+        {
+          "text": "和",
+          "beginMs": 10180,
+          "endMs": 10330
+        },
+        {
+          "text": "太",
+          "beginMs": 10330,
+          "endMs": 10520
+        },
+        {
+          "text": "小",
+          "beginMs": 10520,
+          "endMs": 10910
+        },
+        {
+          "text": "就",
+          "beginMs": 11190,
+          "endMs": 11320
+        },
+        {
+          "text": "移",
+          "beginMs": 11320,
+          "endMs": 11440
+        },
+        {
+          "text": "动",
+          "beginMs": 11440,
+          "endMs": 11580
+        },
+        {
+          "text": "左",
+          "beginMs": 11580,
+          "endMs": 11750
+        },
+        {
+          "text": "指",
+          "beginMs": 11750,
+          "endMs": 11879
+        },
+        {
+          "text": "针",
+          "beginMs": 11879,
+          "endMs": 12200
+        },
+        {
+          "text": "和",
+          "beginMs": 12299,
+          "endMs": 12459
+        },
+        {
+          "text": "太",
+          "beginMs": 12459,
+          "endMs": 12669
+        },
+        {
+          "text": "大",
+          "beginMs": 12669,
+          "endMs": 12940
+        },
+        {
+          "text": "就",
+          "beginMs": 13140,
+          "endMs": 13270
+        },
+        {
+          "text": "移",
+          "beginMs": 13270,
+          "endMs": 13410
+        },
+        {
+          "text": "动",
+          "beginMs": 13410,
+          "endMs": 13540
+        },
+        {
+          "text": "右",
+          "beginMs": 13540,
+          "endMs": 13720
+        },
+        {
+          "text": "指",
+          "beginMs": 13720,
+          "endMs": 13850
+        },
+        {
+          "text": "针",
+          "beginMs": 13850,
+          "endMs": 14180
+        }
+      ]
+    },
+    {
+      "id": "two-pointer-demo",
+      "file": "audio/0001-two-sum/two-pointer-demo.wav",
+      "durationMs": 11130,
+      "holdMs": 400,
+      "totalMs": 11530,
+      "words": [
+        {
+          "text": "从",
+          "beginMs": 0,
+          "endMs": 160
+        },
+        {
+          "text": "两",
+          "beginMs": 160,
+          "endMs": 340
+        },
+        {
+          "text": "端",
+          "beginMs": 340,
+          "endMs": 500
+        },
+        {
+          "text": "开",
+          "beginMs": 500,
+          "endMs": 700
+        },
+        {
+          "text": "始",
+          "beginMs": 700,
+          "endMs": 1030
+        },
+        {
+          "text": "二",
+          "beginMs": 1100,
+          "endMs": 1250
+        },
+        {
+          "text": "加",
+          "beginMs": 1250,
+          "endMs": 1439
+        },
+        {
+          "text": "十",
+          "beginMs": 1439,
+          "endMs": 1630
+        },
+        {
+          "text": "五",
+          "beginMs": 1630,
+          "endMs": 1760
+        },
+        {
+          "text": "等",
+          "beginMs": 1760,
+          "endMs": 1910
+        },
+        {
+          "text": "于",
+          "beginMs": 1910,
+          "endMs": 2040
+        },
+        {
+          "text": "十",
+          "beginMs": 2040,
+          "endMs": 2230
+        },
+        {
+          "text": "七",
+          "beginMs": 2230,
+          "endMs": 2550
+        },
+        {
+          "text": "比",
+          "beginMs": 2740,
+          "endMs": 2899
+        },
+        {
+          "text": "九",
+          "beginMs": 2899,
+          "endMs": 3080
+        },
+        {
+          "text": "大",
+          "beginMs": 3080,
+          "endMs": 3399
+        },
+        {
+          "text": "右",
+          "beginMs": 3679,
+          "endMs": 3820
+        },
+        {
+          "text": "指",
+          "beginMs": 3820,
+          "endMs": 3970
+        },
+        {
+          "text": "针",
+          "beginMs": 3970,
+          "endMs": 4150
+        },
+        {
+          "text": "左",
+          "beginMs": 4150,
+          "endMs": 4309
+        },
+        {
+          "text": "移",
+          "beginMs": 4309,
+          "endMs": 4600
+        },
+        {
+          "text": "二",
+          "beginMs": 4880,
+          "endMs": 5030
+        },
+        {
+          "text": "加",
+          "beginMs": 5030,
+          "endMs": 5269
+        },
+        {
+          "text": "十",
+          "beginMs": 5269,
+          "endMs": 5460
+        },
+        {
+          "text": "一",
+          "beginMs": 5460,
+          "endMs": 5570
+        },
+        {
+          "text": "等",
+          "beginMs": 5570,
+          "endMs": 5730
+        },
+        {
+          "text": "于",
+          "beginMs": 5730,
+          "endMs": 5869
+        },
+        {
+          "text": "十",
+          "beginMs": 5869,
+          "endMs": 6039
+        },
+        {
+          "text": "三",
+          "beginMs": 6039,
+          "endMs": 6340
+        },
+        {
+          "text": "还",
+          "beginMs": 6559,
+          "endMs": 6690
+        },
+        {
+          "text": "是",
+          "beginMs": 6690,
+          "endMs": 6829
+        },
+        {
+          "text": "大",
+          "beginMs": 6829,
+          "endMs": 7110
+        },
+        {
+          "text": "右",
+          "beginMs": 7389,
+          "endMs": 7509
+        },
+        {
+          "text": "指",
+          "beginMs": 7509,
+          "endMs": 7650
+        },
+        {
+          "text": "针",
+          "beginMs": 7650,
+          "endMs": 7920
+        },
+        {
+          "text": "再",
+          "beginMs": 7920,
+          "endMs": 8070
+        },
+        {
+          "text": "左",
+          "beginMs": 8070,
+          "endMs": 8240
+        },
+        {
+          "text": "移",
+          "beginMs": 8240,
+          "endMs": 8539
+        },
+        {
+          "text": "二",
+          "beginMs": 8700,
+          "endMs": 8839
+        },
+        {
+          "text": "加",
+          "beginMs": 8839,
+          "endMs": 9039
+        },
+        {
+          "text": "七",
+          "beginMs": 9039,
+          "endMs": 9249
+        },
+        {
+          "text": "正",
+          "beginMs": 9249,
+          "endMs": 9390
+        },
+        {
+          "text": "好",
+          "beginMs": 9390,
+          "endMs": 9570
+        },
+        {
+          "text": "等",
+          "beginMs": 9570,
+          "endMs": 9700
+        },
+        {
+          "text": "于",
+          "beginMs": 9700,
+          "endMs": 9860
+        },
+        {
+          "text": "九",
+          "beginMs": 9860,
+          "endMs": 10190
+        },
+        {
+          "text": "找",
+          "beginMs": 10449,
+          "endMs": 10610
+        },
+        {
+          "text": "到",
+          "beginMs": 10610,
+          "endMs": 10829
+        },
+        {
+          "text": "了",
+          "beginMs": 10829,
+          "endMs": 11070
+        }
+      ]
+    },
+    {
+      "id": "two-pointer-caveat",
+      "file": "audio/0001-two-sum/two-pointer-caveat.wav",
+      "durationMs": 17870,
+      "holdMs": 400,
+      "totalMs": 18270,
+      "words": [
+        {
+          "text": "双",
+          "beginMs": 0,
+          "endMs": 219
+        },
+        {
+          "text": "指",
+          "beginMs": 219,
+          "endMs": 330
+        },
+        {
+          "text": "针",
+          "beginMs": 330,
+          "endMs": 589
+        },
+        {
+          "text": "看",
+          "beginMs": 589,
+          "endMs": 800
+        },
+        {
+          "text": "起",
+          "beginMs": 800,
+          "endMs": 940
+        },
+        {
+          "text": "来",
+          "beginMs": 940,
+          "endMs": 1069
+        },
+        {
+          "text": "很",
+          "beginMs": 1069,
+          "endMs": 1240
+        },
+        {
+          "text": "优",
+          "beginMs": 1240,
+          "endMs": 1400
+        },
+        {
+          "text": "雅",
+          "beginMs": 1400,
+          "endMs": 1720
+        },
+        {
+          "text": "时",
+          "beginMs": 1959,
+          "endMs": 2110
+        },
+        {
+          "text": "间",
+          "beginMs": 2110,
+          "endMs": 2290
+        },
+        {
+          "text": "复",
+          "beginMs": 2290,
+          "endMs": 2430
+        },
+        {
+          "text": "杂",
+          "beginMs": 2430,
+          "endMs": 2610
+        },
+        {
+          "text": "度",
+          "beginMs": 2610,
+          "endMs": 2770
+        },
+        {
+          "text": "也",
+          "beginMs": 2770,
+          "endMs": 2879
+        },
+        {
+          "text": "是",
+          "beginMs": 2879,
+          "endMs": 3070
+        },
+        {
+          "text": "O",
+          "beginMs": 3070,
+          "endMs": 3250
+        },
+        {
+          "text": "n",
+          "beginMs": 3439,
+          "endMs": 3750
+        },
+        {
+          "text": "但",
+          "beginMs": 4200,
+          "endMs": 4340
+        },
+        {
+          "text": "它",
+          "beginMs": 4340,
+          "endMs": 4480
+        },
+        {
+          "text": "有",
+          "beginMs": 4480,
+          "endMs": 4600
+        },
+        {
+          "text": "一",
+          "beginMs": 4600,
+          "endMs": 4710
+        },
+        {
+          "text": "个",
+          "beginMs": 4710,
+          "endMs": 4790
+        },
+        {
+          "text": "前",
+          "beginMs": 4790,
+          "endMs": 5060
+        },
+        {
+          "text": "提",
+          "beginMs": 5060,
+          "endMs": 5390
+        },
+        {
+          "text": "数",
+          "beginMs": 5480,
+          "endMs": 5650
+        },
+        {
+          "text": "组",
+          "beginMs": 5650,
+          "endMs": 5820
+        },
+        {
+          "text": "必",
+          "beginMs": 5820,
+          "endMs": 5950
+        },
+        {
+          "text": "须",
+          "beginMs": 5950,
+          "endMs": 6110
+        },
+        {
+          "text": "有",
+          "beginMs": 6110,
+          "endMs": 6250
+        },
+        {
+          "text": "序",
+          "beginMs": 6250,
+          "endMs": 6630
+        },
+        {
+          "text": "题",
+          "beginMs": 7080,
+          "endMs": 7250
+        },
+        {
+          "text": "目",
+          "beginMs": 7250,
+          "endMs": 7400
+        },
+        {
+          "text": "给",
+          "beginMs": 7400,
+          "endMs": 7530
+        },
+        {
+          "text": "出",
+          "beginMs": 7530,
+          "endMs": 7690
+        },
+        {
+          "text": "的",
+          "beginMs": 7690,
+          "endMs": 7780
+        },
+        {
+          "text": "数",
+          "beginMs": 7780,
+          "endMs": 7960
+        },
+        {
+          "text": "组",
+          "beginMs": 7960,
+          "endMs": 8170
+        },
+        {
+          "text": "并",
+          "beginMs": 8170,
+          "endMs": 8340
+        },
+        {
+          "text": "不",
+          "beginMs": 8340,
+          "endMs": 8410
+        },
+        {
+          "text": "保",
+          "beginMs": 8410,
+          "endMs": 8580
+        },
+        {
+          "text": "证",
+          "beginMs": 8580,
+          "endMs": 8730
+        },
+        {
+          "text": "有",
+          "beginMs": 8730,
+          "endMs": 8890
+        },
+        {
+          "text": "序",
+          "beginMs": 8890,
+          "endMs": 9220
+        },
+        {
+          "text": "就",
+          "beginMs": 9450,
+          "endMs": 9600
+        },
+        {
+          "text": "算",
+          "beginMs": 9600,
+          "endMs": 9760
+        },
+        {
+          "text": "先",
+          "beginMs": 9760,
+          "endMs": 9960
+        },
+        {
+          "text": "排",
+          "beginMs": 9960,
+          "endMs": 10150
+        },
+        {
+          "text": "序",
+          "beginMs": 10150,
+          "endMs": 10460
+        },
+        {
+          "text": "元",
+          "beginMs": 10730,
+          "endMs": 10880
+        },
+        {
+          "text": "素",
+          "beginMs": 10880,
+          "endMs": 11040
+        },
+        {
+          "text": "原",
+          "beginMs": 11040,
+          "endMs": 11170
+        },
+        {
+          "text": "来",
+          "beginMs": 11170,
+          "endMs": 11310
+        },
+        {
+          "text": "的",
+          "beginMs": 11310,
+          "endMs": 11390
+        },
+        {
+          "text": "下",
+          "beginMs": 11390,
+          "endMs": 11570
+        },
+        {
+          "text": "标",
+          "beginMs": 11570,
+          "endMs": 11720
+        },
+        {
+          "text": "也",
+          "beginMs": 11720,
+          "endMs": 11850
+        },
+        {
+          "text": "会",
+          "beginMs": 11850,
+          "endMs": 12030
+        },
+        {
+          "text": "丢",
+          "beginMs": 12030,
+          "endMs": 12220
+        },
+        {
+          "text": "失",
+          "beginMs": 12220,
+          "endMs": 12540
+        },
+        {
+          "text": "还",
+          "beginMs": 12800,
+          "endMs": 12950
+        },
+        {
+          "text": "得",
+          "beginMs": 12950,
+          "endMs": 13080
+        },
+        {
+          "text": "额",
+          "beginMs": 13080,
+          "endMs": 13200
+        },
+        {
+          "text": "外",
+          "beginMs": 13200,
+          "endMs": 13360
+        },
+        {
+          "text": "记",
+          "beginMs": 13360,
+          "endMs": 13540
+        },
+        {
+          "text": "录",
+          "beginMs": 13540,
+          "endMs": 13650
+        },
+        {
+          "text": "映",
+          "beginMs": 13650,
+          "endMs": 13820
+        },
+        {
+          "text": "射",
+          "beginMs": 13820,
+          "endMs": 14130
+        },
+        {
+          "text": "反",
+          "beginMs": 14400,
+          "endMs": 14560
+        },
+        {
+          "text": "而",
+          "beginMs": 14560,
+          "endMs": 14740
+        },
+        {
+          "text": "更",
+          "beginMs": 14740,
+          "endMs": 14900
+        },
+        {
+          "text": "麻",
+          "beginMs": 14900,
+          "endMs": 15120
+        },
+        {
+          "text": "烦",
+          "beginMs": 15120,
+          "endMs": 15470
+        },
+        {
+          "text": "所",
+          "beginMs": 15920,
+          "endMs": 16050
+        },
+        {
+          "text": "以",
+          "beginMs": 16050,
+          "endMs": 16140
+        },
+        {
+          "text": "这",
+          "beginMs": 16140,
+          "endMs": 16260
+        },
+        {
+          "text": "道",
+          "beginMs": 16260,
+          "endMs": 16400
+        },
+        {
+          "text": "题",
+          "beginMs": 16400,
+          "endMs": 16560
+        },
+        {
+          "text": "的",
+          "beginMs": 16560,
+          "endMs": 16660
+        },
+        {
+          "text": "正",
+          "beginMs": 16660,
+          "endMs": 16880
+        },
+        {
+          "text": "解",
+          "beginMs": 16880,
+          "endMs": 17040
+        },
+        {
+          "text": "是",
+          "beginMs": 17040,
+          "endMs": 17220
+        },
+        {
+          "text": "哈",
+          "beginMs": 17220,
+          "endMs": 17390
+        },
+        {
+          "text": "希",
+          "beginMs": 17390,
+          "endMs": 17550
+        },
+        {
+          "text": "表",
+          "beginMs": 17550,
+          "endMs": 17810
+        }
+      ]
+    },
+    {
+      "id": "hash-idea",
+      "file": "audio/0001-two-sum/hash-idea.wav",
+      "durationMs": 14722,
+      "holdMs": 400,
+      "totalMs": 15122,
+      "words": [
+        {
+          "text": "换",
+          "beginMs": 0,
+          "endMs": 139
+        },
+        {
+          "text": "一",
+          "beginMs": 139,
+          "endMs": 259
+        },
+        {
+          "text": "个",
+          "beginMs": 259,
+          "endMs": 330
+        },
+        {
+          "text": "角",
+          "beginMs": 330,
+          "endMs": 520
+        },
+        {
+          "text": "度",
+          "beginMs": 520,
+          "endMs": 649
+        },
+        {
+          "text": "想",
+          "beginMs": 649,
+          "endMs": 1030
+        },
+        {
+          "text": "与",
+          "beginMs": 1461,
+          "endMs": 1531
+        },
+        {
+          "text": "其",
+          "beginMs": 1531,
+          "endMs": 1701
+        },
+        {
+          "text": "检",
+          "beginMs": 1701,
+          "endMs": 1901
+        },
+        {
+          "text": "查",
+          "beginMs": 1901,
+          "endMs": 2101
+        },
+        {
+          "text": "每",
+          "beginMs": 2101,
+          "endMs": 2251
+        },
+        {
+          "text": "一",
+          "beginMs": 2251,
+          "endMs": 2351
+        },
+        {
+          "text": "对",
+          "beginMs": 2351,
+          "endMs": 2511
+        },
+        {
+          "text": "数",
+          "beginMs": 2511,
+          "endMs": 2731
+        },
+        {
+          "text": "字",
+          "beginMs": 2731,
+          "endMs": 3031
+        },
+        {
+          "text": "不",
+          "beginMs": 3271,
+          "endMs": 3381
+        },
+        {
+          "text": "如",
+          "beginMs": 3381,
+          "endMs": 3521
+        },
+        {
+          "text": "对",
+          "beginMs": 3521,
+          "endMs": 3641
+        },
+        {
+          "text": "每",
+          "beginMs": 3641,
+          "endMs": 3791
+        },
+        {
+          "text": "个",
+          "beginMs": 3791,
+          "endMs": 3911
+        },
+        {
+          "text": "数",
+          "beginMs": 3911,
+          "endMs": 4101
+        },
+        {
+          "text": "x",
+          "beginMs": 4101,
+          "endMs": 4401
+        },
+        {
+          "text": "直",
+          "beginMs": 4571,
+          "endMs": 4711
+        },
+        {
+          "text": "接",
+          "beginMs": 4711,
+          "endMs": 4841
+        },
+        {
+          "text": "问",
+          "beginMs": 4841,
+          "endMs": 5101
+        },
+        {
+          "text": "target",
+          "beginMs": 5301,
+          "endMs": 5751
+        },
+        {
+          "text": "减",
+          "beginMs": 5751,
+          "endMs": 5961
+        },
+        {
+          "text": "x",
+          "beginMs": 5961,
+          "endMs": 6271
+        },
+        {
+          "text": "在",
+          "beginMs": 6271,
+          "endMs": 6441
+        },
+        {
+          "text": "不",
+          "beginMs": 6441,
+          "endMs": 6551
+        },
+        {
+          "text": "在",
+          "beginMs": 6551,
+          "endMs": 6691
+        },
+        {
+          "text": "数",
+          "beginMs": 6691,
+          "endMs": 6841
+        },
+        {
+          "text": "组",
+          "beginMs": 6841,
+          "endMs": 7011
+        },
+        {
+          "text": "里",
+          "beginMs": 7011,
+          "endMs": 7261
+        },
+        {
+          "text": "只",
+          "beginMs": 7711,
+          "endMs": 7861
+        },
+        {
+          "text": "要",
+          "beginMs": 7861,
+          "endMs": 7971
+        },
+        {
+          "text": "查",
+          "beginMs": 7971,
+          "endMs": 8151
+        },
+        {
+          "text": "一",
+          "beginMs": 8151,
+          "endMs": 8251
+        },
+        {
+          "text": "个",
+          "beginMs": 8251,
+          "endMs": 8321
+        },
+        {
+          "text": "数",
+          "beginMs": 8321,
+          "endMs": 8461
+        },
+        {
+          "text": "是",
+          "beginMs": 8461,
+          "endMs": 8601
+        },
+        {
+          "text": "否",
+          "beginMs": 8601,
+          "endMs": 8761
+        },
+        {
+          "text": "存",
+          "beginMs": 8761,
+          "endMs": 9001
+        },
+        {
+          "text": "在",
+          "beginMs": 9001,
+          "endMs": 9291
+        },
+        {
+          "text": "只",
+          "beginMs": 9511,
+          "endMs": 9651
+        },
+        {
+          "text": "需",
+          "beginMs": 9651,
+          "endMs": 9781
+        },
+        {
+          "text": "要",
+          "beginMs": 9781,
+          "endMs": 9911
+        },
+        {
+          "text": "O",
+          "beginMs": 9911,
+          "endMs": 10111
+        },
+        {
+          "text": "一",
+          "beginMs": 10321,
+          "endMs": 10531
+        },
+        {
+          "text": "整",
+          "beginMs": 10661,
+          "endMs": 10871
+        },
+        {
+          "text": "体",
+          "beginMs": 10871,
+          "endMs": 11011
+        },
+        {
+          "text": "就",
+          "beginMs": 11011,
+          "endMs": 11171
+        },
+        {
+          "text": "只",
+          "beginMs": 11171,
+          "endMs": 11301
+        },
+        {
+          "text": "需",
+          "beginMs": 11301,
+          "endMs": 11441
+        },
+        {
+          "text": "要",
+          "beginMs": 11441,
+          "endMs": 11561
+        },
+        {
+          "text": "遍",
+          "beginMs": 11561,
+          "endMs": 11741
+        },
+        {
+          "text": "历",
+          "beginMs": 11741,
+          "endMs": 11871
+        },
+        {
+          "text": "一",
+          "beginMs": 11871,
+          "endMs": 12001
+        },
+        {
+          "text": "次",
+          "beginMs": 12001,
+          "endMs": 12301
+        },
+        {
+          "text": "哈",
+          "beginMs": 12751,
+          "endMs": 12901
+        },
+        {
+          "text": "希",
+          "beginMs": 12901,
+          "endMs": 13051
+        },
+        {
+          "text": "表",
+          "beginMs": 13051,
+          "endMs": 13221
+        },
+        {
+          "text": "正",
+          "beginMs": 13221,
+          "endMs": 13371
+        },
+        {
+          "text": "好",
+          "beginMs": 13371,
+          "endMs": 13561
+        },
+        {
+          "text": "提",
+          "beginMs": 13561,
+          "endMs": 13741
+        },
+        {
+          "text": "供",
+          "beginMs": 13741,
+          "endMs": 13891
+        },
+        {
+          "text": "了",
+          "beginMs": 13891,
+          "endMs": 13981
+        },
+        {
+          "text": "这",
+          "beginMs": 13981,
+          "endMs": 14101
+        },
+        {
+          "text": "个",
+          "beginMs": 14101,
+          "endMs": 14161
+        },
+        {
+          "text": "能",
+          "beginMs": 14161,
+          "endMs": 14351
+        },
+        {
+          "text": "力",
+          "beginMs": 14351,
+          "endMs": 14661
+        }
+      ]
+    },
+    {
+      "id": "hash-walk-1",
+      "file": "audio/0001-two-sum/hash-walk-1.wav",
+      "durationMs": 10080,
+      "holdMs": 400,
+      "totalMs": 10480,
+      "words": [
+        {
+          "text": "从",
+          "beginMs": 0,
+          "endMs": 219
+        },
+        {
+          "text": "左",
+          "beginMs": 219,
+          "endMs": 349
+        },
+        {
+          "text": "往",
+          "beginMs": 349,
+          "endMs": 510
+        },
+        {
+          "text": "右",
+          "beginMs": 510,
+          "endMs": 659
+        },
+        {
+          "text": "遍",
+          "beginMs": 659,
+          "endMs": 849
+        },
+        {
+          "text": "历",
+          "beginMs": 849,
+          "endMs": 1150
+        },
+        {
+          "text": "第",
+          "beginMs": 1600,
+          "endMs": 1730
+        },
+        {
+          "text": "一",
+          "beginMs": 1730,
+          "endMs": 1860
+        },
+        {
+          "text": "个",
+          "beginMs": 1860,
+          "endMs": 2010
+        },
+        {
+          "text": "数",
+          "beginMs": 2010,
+          "endMs": 2170
+        },
+        {
+          "text": "是",
+          "beginMs": 2170,
+          "endMs": 2350
+        },
+        {
+          "text": "二",
+          "beginMs": 2350,
+          "endMs": 2580
+        },
+        {
+          "text": "需",
+          "beginMs": 2770,
+          "endMs": 2940
+        },
+        {
+          "text": "要",
+          "beginMs": 2940,
+          "endMs": 3060
+        },
+        {
+          "text": "的",
+          "beginMs": 3060,
+          "endMs": 3150
+        },
+        {
+          "text": "搭",
+          "beginMs": 3150,
+          "endMs": 3330
+        },
+        {
+          "text": "档",
+          "beginMs": 3330,
+          "endMs": 3500
+        },
+        {
+          "text": "是",
+          "beginMs": 3500,
+          "endMs": 3660
+        },
+        {
+          "text": "七",
+          "beginMs": 3660,
+          "endMs": 3990
+        },
+        {
+          "text": "查",
+          "beginMs": 4440,
+          "endMs": 4650
+        },
+        {
+          "text": "一",
+          "beginMs": 4650,
+          "endMs": 4740
+        },
+        {
+          "text": "下",
+          "beginMs": 4740,
+          "endMs": 4909
+        },
+        {
+          "text": "哈",
+          "beginMs": 4909,
+          "endMs": 5070
+        },
+        {
+          "text": "希",
+          "beginMs": 5070,
+          "endMs": 5230
+        },
+        {
+          "text": "表",
+          "beginMs": 5230,
+          "endMs": 5490
+        },
+        {
+          "text": "里",
+          "beginMs": 5769,
+          "endMs": 5840
+        },
+        {
+          "text": "面",
+          "beginMs": 5840,
+          "endMs": 5990
+        },
+        {
+          "text": "还",
+          "beginMs": 5990,
+          "endMs": 6139
+        },
+        {
+          "text": "是",
+          "beginMs": 6139,
+          "endMs": 6269
+        },
+        {
+          "text": "空",
+          "beginMs": 6269,
+          "endMs": 6510
+        },
+        {
+          "text": "的",
+          "beginMs": 6510,
+          "endMs": 6760
+        },
+        {
+          "text": "七",
+          "beginMs": 6860,
+          "endMs": 7039
+        },
+        {
+          "text": "不",
+          "beginMs": 7039,
+          "endMs": 7150
+        },
+        {
+          "text": "存",
+          "beginMs": 7150,
+          "endMs": 7380
+        },
+        {
+          "text": "在",
+          "beginMs": 7380,
+          "endMs": 7639
+        },
+        {
+          "text": "于",
+          "beginMs": 7909,
+          "endMs": 7999
+        },
+        {
+          "text": "是",
+          "beginMs": 7999,
+          "endMs": 8150
+        },
+        {
+          "text": "把",
+          "beginMs": 8150,
+          "endMs": 8299
+        },
+        {
+          "text": "二",
+          "beginMs": 8299,
+          "endMs": 8480
+        },
+        {
+          "text": "和",
+          "beginMs": 8480,
+          "endMs": 8629
+        },
+        {
+          "text": "它",
+          "beginMs": 8629,
+          "endMs": 8759
+        },
+        {
+          "text": "的",
+          "beginMs": 8759,
+          "endMs": 8830
+        },
+        {
+          "text": "下",
+          "beginMs": 8830,
+          "endMs": 8999
+        },
+        {
+          "text": "标",
+          "beginMs": 8999,
+          "endMs": 9150
+        },
+        {
+          "text": "零",
+          "beginMs": 9150,
+          "endMs": 9350
+        },
+        {
+          "text": "存",
+          "beginMs": 9350,
+          "endMs": 9560
+        },
+        {
+          "text": "进",
+          "beginMs": 9560,
+          "endMs": 9740
+        },
+        {
+          "text": "去",
+          "beginMs": 9740,
+          "endMs": 10020
+        }
+      ]
+    },
+    {
+      "id": "hash-walk-2",
+      "file": "audio/0001-two-sum/hash-walk-2.wav",
+      "durationMs": 7190,
+      "holdMs": 400,
+      "totalMs": 7590,
+      "words": [
+        {
+          "text": "第",
+          "beginMs": 0,
+          "endMs": 100
+        },
+        {
+          "text": "二",
+          "beginMs": 100,
+          "endMs": 270
+        },
+        {
+          "text": "个",
+          "beginMs": 270,
+          "endMs": 389
+        },
+        {
+          "text": "数",
+          "beginMs": 389,
+          "endMs": 540
+        },
+        {
+          "text": "是",
+          "beginMs": 540,
+          "endMs": 700
+        },
+        {
+          "text": "七",
+          "beginMs": 700,
+          "endMs": 1020
+        },
+        {
+          "text": "需",
+          "beginMs": 1189,
+          "endMs": 1350
+        },
+        {
+          "text": "要",
+          "beginMs": 1350,
+          "endMs": 1459
+        },
+        {
+          "text": "的",
+          "beginMs": 1459,
+          "endMs": 1550
+        },
+        {
+          "text": "搭",
+          "beginMs": 1550,
+          "endMs": 1730
+        },
+        {
+          "text": "档",
+          "beginMs": 1730,
+          "endMs": 1920
+        },
+        {
+          "text": "是",
+          "beginMs": 1920,
+          "endMs": 2119
+        },
+        {
+          "text": "二",
+          "beginMs": 2119,
+          "endMs": 2399
+        },
+        {
+          "text": "查",
+          "beginMs": 2850,
+          "endMs": 3010
+        },
+        {
+          "text": "表",
+          "beginMs": 3010,
+          "endMs": 3119
+        },
+        {
+          "text": "发",
+          "beginMs": 3119,
+          "endMs": 3270
+        },
+        {
+          "text": "现",
+          "beginMs": 3270,
+          "endMs": 3439
+        },
+        {
+          "text": "二",
+          "beginMs": 3439,
+          "endMs": 3580
+        },
+        {
+          "text": "已",
+          "beginMs": 3580,
+          "endMs": 3669
+        },
+        {
+          "text": "经",
+          "beginMs": 3669,
+          "endMs": 3820
+        },
+        {
+          "text": "出",
+          "beginMs": 3820,
+          "endMs": 3979
+        },
+        {
+          "text": "现",
+          "beginMs": 3979,
+          "endMs": 4140
+        },
+        {
+          "text": "过",
+          "beginMs": 4140,
+          "endMs": 4289
+        },
+        {
+          "text": "了",
+          "beginMs": 4289,
+          "endMs": 4539
+        },
+        {
+          "text": "下",
+          "beginMs": 4749,
+          "endMs": 4930
+        },
+        {
+          "text": "标",
+          "beginMs": 4930,
+          "endMs": 5110
+        },
+        {
+          "text": "是",
+          "beginMs": 5110,
+          "endMs": 5280
+        },
+        {
+          "text": "零",
+          "beginMs": 5280,
+          "endMs": 5559
+        },
+        {
+          "text": "所",
+          "beginMs": 5760,
+          "endMs": 5889
+        },
+        {
+          "text": "以",
+          "beginMs": 5889,
+          "endMs": 5990
+        },
+        {
+          "text": "答",
+          "beginMs": 5990,
+          "endMs": 6130
+        },
+        {
+          "text": "案",
+          "beginMs": 6130,
+          "endMs": 6269
+        },
+        {
+          "text": "就",
+          "beginMs": 6269,
+          "endMs": 6380
+        },
+        {
+          "text": "是",
+          "beginMs": 6380,
+          "endMs": 6530
+        },
+        {
+          "text": "零",
+          "beginMs": 6530,
+          "endMs": 6650
+        },
+        {
+          "text": "和",
+          "beginMs": 6650,
+          "endMs": 6820
+        },
+        {
+          "text": "一",
+          "beginMs": 6820,
+          "endMs": 7130
+        }
+      ]
+    },
+    {
+      "id": "code-write",
+      "file": "audio/0001-two-sum/code-write.wav",
+      "durationMs": 16480,
+      "holdMs": 400,
+      "totalMs": 16880,
+      "words": [
+        {
+          "text": "来",
+          "beginMs": 0,
+          "endMs": 120
+        },
+        {
+          "text": "看",
+          "beginMs": 120,
+          "endMs": 349
+        },
+        {
+          "text": "最",
+          "beginMs": 349,
+          "endMs": 490
+        },
+        {
+          "text": "终",
+          "beginMs": 490,
+          "endMs": 640
+        },
+        {
+          "text": "代",
+          "beginMs": 640,
+          "endMs": 779
+        },
+        {
+          "text": "码",
+          "beginMs": 779,
+          "endMs": 1150
+        },
+        {
+          "text": "我",
+          "beginMs": 1600,
+          "endMs": 1670
+        },
+        {
+          "text": "们",
+          "beginMs": 1670,
+          "endMs": 1760
+        },
+        {
+          "text": "用",
+          "beginMs": 1760,
+          "endMs": 1890
+        },
+        {
+          "text": "一",
+          "beginMs": 1890,
+          "endMs": 2010
+        },
+        {
+          "text": "个",
+          "beginMs": 2010,
+          "endMs": 2090
+        },
+        {
+          "text": "map",
+          "beginMs": 2090,
+          "endMs": 2390
+        },
+        {
+          "text": "记",
+          "beginMs": 2390,
+          "endMs": 2550
+        },
+        {
+          "text": "录",
+          "beginMs": 2550,
+          "endMs": 2680
+        },
+        {
+          "text": "出",
+          "beginMs": 2680,
+          "endMs": 2840
+        },
+        {
+          "text": "现",
+          "beginMs": 2840,
+          "endMs": 3030
+        },
+        {
+          "text": "过",
+          "beginMs": 3030,
+          "endMs": 3140
+        },
+        {
+          "text": "的",
+          "beginMs": 3140,
+          "endMs": 3220
+        },
+        {
+          "text": "数",
+          "beginMs": 3220,
+          "endMs": 3410
+        },
+        {
+          "text": "字",
+          "beginMs": 3410,
+          "endMs": 3619
+        },
+        {
+          "text": "和",
+          "beginMs": 3619,
+          "endMs": 3770
+        },
+        {
+          "text": "它",
+          "beginMs": 3770,
+          "endMs": 3910
+        },
+        {
+          "text": "的",
+          "beginMs": 3910,
+          "endMs": 3980
+        },
+        {
+          "text": "下",
+          "beginMs": 3980,
+          "endMs": 4160
+        },
+        {
+          "text": "标",
+          "beginMs": 4160,
+          "endMs": 4460
+        },
+        {
+          "text": "遍",
+          "beginMs": 4910,
+          "endMs": 5070
+        },
+        {
+          "text": "历",
+          "beginMs": 5070,
+          "endMs": 5180
+        },
+        {
+          "text": "数",
+          "beginMs": 5180,
+          "endMs": 5400
+        },
+        {
+          "text": "组",
+          "beginMs": 5400,
+          "endMs": 5730
+        },
+        {
+          "text": "对",
+          "beginMs": 5960,
+          "endMs": 6080
+        },
+        {
+          "text": "每",
+          "beginMs": 6080,
+          "endMs": 6240
+        },
+        {
+          "text": "个",
+          "beginMs": 6240,
+          "endMs": 6360
+        },
+        {
+          "text": "数",
+          "beginMs": 6360,
+          "endMs": 6530
+        },
+        {
+          "text": "先",
+          "beginMs": 6530,
+          "endMs": 6700
+        },
+        {
+          "text": "算",
+          "beginMs": 6700,
+          "endMs": 6900
+        },
+        {
+          "text": "出",
+          "beginMs": 6900,
+          "endMs": 7060
+        },
+        {
+          "text": "它",
+          "beginMs": 7060,
+          "endMs": 7220
+        },
+        {
+          "text": "需",
+          "beginMs": 7220,
+          "endMs": 7370
+        },
+        {
+          "text": "要",
+          "beginMs": 7370,
+          "endMs": 7480
+        },
+        {
+          "text": "的",
+          "beginMs": 7480,
+          "endMs": 7550
+        },
+        {
+          "text": "搭",
+          "beginMs": 7550,
+          "endMs": 7740
+        },
+        {
+          "text": "档",
+          "beginMs": 7740,
+          "endMs": 8040
+        },
+        {
+          "text": "如",
+          "beginMs": 8300,
+          "endMs": 8410
+        },
+        {
+          "text": "果",
+          "beginMs": 8410,
+          "endMs": 8570
+        },
+        {
+          "text": "搭",
+          "beginMs": 8570,
+          "endMs": 8720
+        },
+        {
+          "text": "档",
+          "beginMs": 8720,
+          "endMs": 8850
+        },
+        {
+          "text": "已",
+          "beginMs": 8850,
+          "endMs": 8970
+        },
+        {
+          "text": "经",
+          "beginMs": 8970,
+          "endMs": 9130
+        },
+        {
+          "text": "在",
+          "beginMs": 9130,
+          "endMs": 9270
+        },
+        {
+          "text": "map",
+          "beginMs": 9270,
+          "endMs": 9560
+        },
+        {
+          "text": "里",
+          "beginMs": 9560,
+          "endMs": 9770
+        },
+        {
+          "text": "说",
+          "beginMs": 9980,
+          "endMs": 10110
+        },
+        {
+          "text": "明",
+          "beginMs": 10110,
+          "endMs": 10259
+        },
+        {
+          "text": "之",
+          "beginMs": 10259,
+          "endMs": 10380
+        },
+        {
+          "text": "前",
+          "beginMs": 10380,
+          "endMs": 10590
+        },
+        {
+          "text": "见",
+          "beginMs": 10590,
+          "endMs": 10790
+        },
+        {
+          "text": "过",
+          "beginMs": 10790,
+          "endMs": 11040
+        },
+        {
+          "text": "直",
+          "beginMs": 11320,
+          "endMs": 11470
+        },
+        {
+          "text": "接",
+          "beginMs": 11470,
+          "endMs": 11610
+        },
+        {
+          "text": "返",
+          "beginMs": 11610,
+          "endMs": 11770
+        },
+        {
+          "text": "回",
+          "beginMs": 11770,
+          "endMs": 11910
+        },
+        {
+          "text": "两",
+          "beginMs": 11910,
+          "endMs": 12090
+        },
+        {
+          "text": "个",
+          "beginMs": 12090,
+          "endMs": 12150
+        },
+        {
+          "text": "下",
+          "beginMs": 12150,
+          "endMs": 12390
+        },
+        {
+          "text": "标",
+          "beginMs": 12390,
+          "endMs": 12670
+        },
+        {
+          "text": "否",
+          "beginMs": 12890,
+          "endMs": 13030
+        },
+        {
+          "text": "则",
+          "beginMs": 13030,
+          "endMs": 13160
+        },
+        {
+          "text": "把",
+          "beginMs": 13160,
+          "endMs": 13310
+        },
+        {
+          "text": "当",
+          "beginMs": 13310,
+          "endMs": 13509
+        },
+        {
+          "text": "前",
+          "beginMs": 13509,
+          "endMs": 13680
+        },
+        {
+          "text": "数",
+          "beginMs": 13680,
+          "endMs": 13870
+        },
+        {
+          "text": "字",
+          "beginMs": 13870,
+          "endMs": 14129
+        },
+        {
+          "text": "和",
+          "beginMs": 14129,
+          "endMs": 14270
+        },
+        {
+          "text": "下",
+          "beginMs": 14270,
+          "endMs": 14440
+        },
+        {
+          "text": "标",
+          "beginMs": 14440,
+          "endMs": 14600
+        },
+        {
+          "text": "存",
+          "beginMs": 14600,
+          "endMs": 14790
+        },
+        {
+          "text": "进",
+          "beginMs": 14790,
+          "endMs": 14940
+        },
+        {
+          "text": "map",
+          "beginMs": 14940,
+          "endMs": 15299
+        },
+        {
+          "text": "继",
+          "beginMs": 15440,
+          "endMs": 15600
+        },
+        {
+          "text": "续",
+          "beginMs": 15600,
+          "endMs": 15750
+        },
+        {
+          "text": "往",
+          "beginMs": 15750,
+          "endMs": 15879
+        },
+        {
+          "text": "后",
+          "beginMs": 15879,
+          "endMs": 16109
+        },
+        {
+          "text": "走",
+          "beginMs": 16109,
+          "endMs": 16420
+        }
+      ]
+    },
+    {
+      "id": "code-trace",
+      "file": "audio/0001-two-sum/code-trace.wav",
+      "durationMs": 13920,
+      "holdMs": 400,
+      "totalMs": 14320,
+      "words": [
+        {
+          "text": "用",
+          "beginMs": 0,
+          "endMs": 150
+        },
+        {
+          "text": "刚",
+          "beginMs": 150,
+          "endMs": 340
+        },
+        {
+          "text": "才",
+          "beginMs": 340,
+          "endMs": 479
+        },
+        {
+          "text": "的",
+          "beginMs": 479,
+          "endMs": 560
+        },
+        {
+          "text": "例",
+          "beginMs": 560,
+          "endMs": 709
+        },
+        {
+          "text": "子",
+          "beginMs": 709,
+          "endMs": 820
+        },
+        {
+          "text": "手",
+          "beginMs": 820,
+          "endMs": 979
+        },
+        {
+          "text": "动",
+          "beginMs": 979,
+          "endMs": 1140
+        },
+        {
+          "text": "跑",
+          "beginMs": 1140,
+          "endMs": 1300
+        },
+        {
+          "text": "一",
+          "beginMs": 1300,
+          "endMs": 1400
+        },
+        {
+          "text": "遍",
+          "beginMs": 1400,
+          "endMs": 1689
+        },
+        {
+          "text": "i",
+          "beginMs": 2139,
+          "endMs": 2280
+        },
+        {
+          "text": "等",
+          "beginMs": 2280,
+          "endMs": 2469
+        },
+        {
+          "text": "于",
+          "beginMs": 2469,
+          "endMs": 2619
+        },
+        {
+          "text": "零",
+          "beginMs": 2619,
+          "endMs": 2879
+        },
+        {
+          "text": "数",
+          "beginMs": 3110,
+          "endMs": 3289
+        },
+        {
+          "text": "字",
+          "beginMs": 3289,
+          "endMs": 3439
+        },
+        {
+          "text": "是",
+          "beginMs": 3439,
+          "endMs": 3639
+        },
+        {
+          "text": "二",
+          "beginMs": 3639,
+          "endMs": 3879
+        },
+        {
+          "text": "need",
+          "beginMs": 4130,
+          "endMs": 4309
+        },
+        {
+          "text": "等",
+          "beginMs": 4309,
+          "endMs": 4450
+        },
+        {
+          "text": "于",
+          "beginMs": 4450,
+          "endMs": 4619
+        },
+        {
+          "text": "七",
+          "beginMs": 4619,
+          "endMs": 4889
+        },
+        {
+          "text": "map",
+          "beginMs": 5079,
+          "endMs": 5340
+        },
+        {
+          "text": "是",
+          "beginMs": 5340,
+          "endMs": 5499
+        },
+        {
+          "text": "空",
+          "beginMs": 5499,
+          "endMs": 5740
+        },
+        {
+          "text": "的",
+          "beginMs": 5740,
+          "endMs": 5960
+        },
+        {
+          "text": "把",
+          "beginMs": 6110,
+          "endMs": 6249
+        },
+        {
+          "text": "二",
+          "beginMs": 6249,
+          "endMs": 6469
+        },
+        {
+          "text": "和",
+          "beginMs": 6469,
+          "endMs": 6619
+        },
+        {
+          "text": "下",
+          "beginMs": 6619,
+          "endMs": 6789
+        },
+        {
+          "text": "标",
+          "beginMs": 6789,
+          "endMs": 6960
+        },
+        {
+          "text": "零",
+          "beginMs": 6960,
+          "endMs": 7150
+        },
+        {
+          "text": "存",
+          "beginMs": 7150,
+          "endMs": 7360
+        },
+        {
+          "text": "进",
+          "beginMs": 7360,
+          "endMs": 7539
+        },
+        {
+          "text": "去",
+          "beginMs": 7539,
+          "endMs": 7840
+        },
+        {
+          "text": "i",
+          "beginMs": 8290,
+          "endMs": 8430
+        },
+        {
+          "text": "等",
+          "beginMs": 8430,
+          "endMs": 8600
+        },
+        {
+          "text": "于",
+          "beginMs": 8600,
+          "endMs": 8770
+        },
+        {
+          "text": "一",
+          "beginMs": 8770,
+          "endMs": 9040
+        },
+        {
+          "text": "数",
+          "beginMs": 9270,
+          "endMs": 9470
+        },
+        {
+          "text": "字",
+          "beginMs": 9470,
+          "endMs": 9630
+        },
+        {
+          "text": "是",
+          "beginMs": 9630,
+          "endMs": 9830
+        },
+        {
+          "text": "七",
+          "beginMs": 9830,
+          "endMs": 10170
+        },
+        {
+          "text": "need",
+          "beginMs": 10370,
+          "endMs": 10580
+        },
+        {
+          "text": "等",
+          "beginMs": 10580,
+          "endMs": 10770
+        },
+        {
+          "text": "于",
+          "beginMs": 10770,
+          "endMs": 10900
+        },
+        {
+          "text": "二",
+          "beginMs": 10900,
+          "endMs": 11160
+        },
+        {
+          "text": "map",
+          "beginMs": 11430,
+          "endMs": 11700
+        },
+        {
+          "text": "里",
+          "beginMs": 11700,
+          "endMs": 11930
+        },
+        {
+          "text": "正",
+          "beginMs": 11930,
+          "endMs": 12090
+        },
+        {
+          "text": "好",
+          "beginMs": 12090,
+          "endMs": 12310
+        },
+        {
+          "text": "有",
+          "beginMs": 12310,
+          "endMs": 12620
+        },
+        {
+          "text": "返",
+          "beginMs": 12880,
+          "endMs": 13030
+        },
+        {
+          "text": "回",
+          "beginMs": 13030,
+          "endMs": 13210
+        },
+        {
+          "text": "零",
+          "beginMs": 13210,
+          "endMs": 13390
+        },
+        {
+          "text": "和",
+          "beginMs": 13390,
+          "endMs": 13570
+        },
+        {
+          "text": "一",
+          "beginMs": 13570,
+          "endMs": 13870
+        }
+      ]
+    },
+    {
+      "id": "complexity",
+      "file": "audio/0001-two-sum/complexity.wav",
+      "durationMs": 15577,
+      "holdMs": 400,
+      "totalMs": 15977,
+      "words": [
+        {
+          "text": "最",
+          "beginMs": 0,
+          "endMs": 150
+        },
+        {
+          "text": "后",
+          "beginMs": 150,
+          "endMs": 300
+        },
+        {
+          "text": "看",
+          "beginMs": 300,
+          "endMs": 490
+        },
+        {
+          "text": "复",
+          "beginMs": 490,
+          "endMs": 630
+        },
+        {
+          "text": "杂",
+          "beginMs": 630,
+          "endMs": 839
+        },
+        {
+          "text": "度",
+          "beginMs": 839,
+          "endMs": 1130
+        },
+        {
+          "text": "我",
+          "beginMs": 1569,
+          "endMs": 1629
+        },
+        {
+          "text": "们",
+          "beginMs": 1629,
+          "endMs": 1769
+        },
+        {
+          "text": "只",
+          "beginMs": 1769,
+          "endMs": 1889
+        },
+        {
+          "text": "把",
+          "beginMs": 1889,
+          "endMs": 2059
+        },
+        {
+          "text": "数",
+          "beginMs": 2059,
+          "endMs": 2229
+        },
+        {
+          "text": "组",
+          "beginMs": 2229,
+          "endMs": 2389
+        },
+        {
+          "text": "遍",
+          "beginMs": 2389,
+          "endMs": 2559
+        },
+        {
+          "text": "历",
+          "beginMs": 2559,
+          "endMs": 2699
+        },
+        {
+          "text": "一",
+          "beginMs": 2699,
+          "endMs": 2839
+        },
+        {
+          "text": "次",
+          "beginMs": 2839,
+          "endMs": 3139
+        },
+        {
+          "text": "每",
+          "beginMs": 3339,
+          "endMs": 3479
+        },
+        {
+          "text": "次",
+          "beginMs": 3479,
+          "endMs": 3629
+        },
+        {
+          "text": "哈",
+          "beginMs": 3629,
+          "endMs": 3799
+        },
+        {
+          "text": "希",
+          "beginMs": 3799,
+          "endMs": 3949
+        },
+        {
+          "text": "表",
+          "beginMs": 3949,
+          "endMs": 4099
+        },
+        {
+          "text": "的",
+          "beginMs": 4099,
+          "endMs": 4189
+        },
+        {
+          "text": "插",
+          "beginMs": 4189,
+          "endMs": 4399
+        },
+        {
+          "text": "入",
+          "beginMs": 4399,
+          "endMs": 4529
+        },
+        {
+          "text": "和",
+          "beginMs": 4529,
+          "endMs": 4659
+        },
+        {
+          "text": "查",
+          "beginMs": 4659,
+          "endMs": 4829
+        },
+        {
+          "text": "询",
+          "beginMs": 4829,
+          "endMs": 5019
+        },
+        {
+          "text": "均",
+          "beginMs": 5019,
+          "endMs": 5179
+        },
+        {
+          "text": "摊",
+          "beginMs": 5179,
+          "endMs": 5369
+        },
+        {
+          "text": "都",
+          "beginMs": 5369,
+          "endMs": 5469
+        },
+        {
+          "text": "是",
+          "beginMs": 5469,
+          "endMs": 5609
+        },
+        {
+          "text": "O",
+          "beginMs": 5609,
+          "endMs": 5779
+        },
+        {
+          "text": "一",
+          "beginMs": 5869,
+          "endMs": 6149
+        },
+        {
+          "text": "所",
+          "beginMs": 6428,
+          "endMs": 6568
+        },
+        {
+          "text": "以",
+          "beginMs": 6568,
+          "endMs": 6678
+        },
+        {
+          "text": "总",
+          "beginMs": 6678,
+          "endMs": 6838
+        },
+        {
+          "text": "时",
+          "beginMs": 6838,
+          "endMs": 6988
+        },
+        {
+          "text": "间",
+          "beginMs": 6988,
+          "endMs": 7178
+        },
+        {
+          "text": "复",
+          "beginMs": 7178,
+          "endMs": 7328
+        },
+        {
+          "text": "杂",
+          "beginMs": 7328,
+          "endMs": 7498
+        },
+        {
+          "text": "度",
+          "beginMs": 7498,
+          "endMs": 7658
+        },
+        {
+          "text": "是",
+          "beginMs": 7658,
+          "endMs": 7878
+        },
+        {
+          "text": "O",
+          "beginMs": 7878,
+          "endMs": 8048
+        },
+        {
+          "text": "n",
+          "beginMs": 8218,
+          "endMs": 8498
+        },
+        {
+          "text": "额",
+          "beginMs": 8948,
+          "endMs": 9068
+        },
+        {
+          "text": "外",
+          "beginMs": 9068,
+          "endMs": 9218
+        },
+        {
+          "text": "的",
+          "beginMs": 9218,
+          "endMs": 9298
+        },
+        {
+          "text": "哈",
+          "beginMs": 9298,
+          "endMs": 9498
+        },
+        {
+          "text": "希",
+          "beginMs": 9498,
+          "endMs": 9648
+        },
+        {
+          "text": "表",
+          "beginMs": 9648,
+          "endMs": 9798
+        },
+        {
+          "text": "最",
+          "beginMs": 9798,
+          "endMs": 9938
+        },
+        {
+          "text": "多",
+          "beginMs": 9938,
+          "endMs": 10078
+        },
+        {
+          "text": "存",
+          "beginMs": 10078,
+          "endMs": 10298
+        },
+        {
+          "text": "n",
+          "beginMs": 10298,
+          "endMs": 10508
+        },
+        {
+          "text": "个",
+          "beginMs": 10508,
+          "endMs": 10588
+        },
+        {
+          "text": "元",
+          "beginMs": 10588,
+          "endMs": 10798
+        },
+        {
+          "text": "素",
+          "beginMs": 10798,
+          "endMs": 11128
+        },
+        {
+          "text": "空",
+          "beginMs": 11368,
+          "endMs": 11568
+        },
+        {
+          "text": "间",
+          "beginMs": 11568,
+          "endMs": 11728
+        },
+        {
+          "text": "复",
+          "beginMs": 11728,
+          "endMs": 11868
+        },
+        {
+          "text": "杂",
+          "beginMs": 11868,
+          "endMs": 12058
+        },
+        {
+          "text": "度",
+          "beginMs": 12058,
+          "endMs": 12218
+        },
+        {
+          "text": "也",
+          "beginMs": 12218,
+          "endMs": 12318
+        },
+        {
+          "text": "是",
+          "beginMs": 12318,
+          "endMs": 12528
+        },
+        {
+          "text": "O",
+          "beginMs": 12528,
+          "endMs": 12678
+        },
+        {
+          "text": "n",
+          "beginMs": 12828,
+          "endMs": 13118
+        },
+        {
+          "text": "这",
+          "beginMs": 13568,
+          "endMs": 13698
+        },
+        {
+          "text": "是",
+          "beginMs": 13698,
+          "endMs": 13838
+        },
+        {
+          "text": "典",
+          "beginMs": 13838,
+          "endMs": 13998
+        },
+        {
+          "text": "型",
+          "beginMs": 13998,
+          "endMs": 14208
+        },
+        {
+          "text": "的",
+          "beginMs": 14208,
+          "endMs": 14278
+        },
+        {
+          "text": "用",
+          "beginMs": 14278,
+          "endMs": 14438
+        },
+        {
+          "text": "空",
+          "beginMs": 14438,
+          "endMs": 14648
+        },
+        {
+          "text": "间",
+          "beginMs": 14648,
+          "endMs": 14828
+        },
+        {
+          "text": "换",
+          "beginMs": 14828,
+          "endMs": 15008
+        },
+        {
+          "text": "时",
+          "beginMs": 15008,
+          "endMs": 15178
+        },
+        {
+          "text": "间",
+          "beginMs": 15178,
+          "endMs": 15528
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "file": "audio/0001-two-sum/outro.wav",
+      "durationMs": 10086,
+      "holdMs": 1000,
+      "totalMs": 11086,
+      "words": [
+        {
+          "text": "总",
+          "beginMs": 0,
+          "endMs": 169
+        },
+        {
+          "text": "结",
+          "beginMs": 169,
+          "endMs": 310
+        },
+        {
+          "text": "一",
+          "beginMs": 310,
+          "endMs": 400
+        },
+        {
+          "text": "下",
+          "beginMs": 400,
+          "endMs": 740
+        },
+        {
+          "text": "一",
+          "beginMs": 839,
+          "endMs": 920
+        },
+        {
+          "text": "边",
+          "beginMs": 920,
+          "endMs": 1120
+        },
+        {
+          "text": "遍",
+          "beginMs": 1120,
+          "endMs": 1309
+        },
+        {
+          "text": "历",
+          "beginMs": 1309,
+          "endMs": 1559
+        },
+        {
+          "text": "一",
+          "beginMs": 1740,
+          "endMs": 1819
+        },
+        {
+          "text": "边",
+          "beginMs": 1819,
+          "endMs": 2020
+        },
+        {
+          "text": "把",
+          "beginMs": 2020,
+          "endMs": 2159
+        },
+        {
+          "text": "见",
+          "beginMs": 2159,
+          "endMs": 2330
+        },
+        {
+          "text": "过",
+          "beginMs": 2330,
+          "endMs": 2450
+        },
+        {
+          "text": "的",
+          "beginMs": 2450,
+          "endMs": 2540
+        },
+        {
+          "text": "数",
+          "beginMs": 2540,
+          "endMs": 2720
+        },
+        {
+          "text": "字",
+          "beginMs": 2720,
+          "endMs": 2840
+        },
+        {
+          "text": "记",
+          "beginMs": 2840,
+          "endMs": 2990
+        },
+        {
+          "text": "进",
+          "beginMs": 2990,
+          "endMs": 3159
+        },
+        {
+          "text": "哈",
+          "beginMs": 3159,
+          "endMs": 3350
+        },
+        {
+          "text": "希",
+          "beginMs": 3350,
+          "endMs": 3530
+        },
+        {
+          "text": "表",
+          "beginMs": 3530,
+          "endMs": 3790
+        },
+        {
+          "text": "就",
+          "beginMs": 4059,
+          "endMs": 4180
+        },
+        {
+          "text": "能",
+          "beginMs": 4180,
+          "endMs": 4329
+        },
+        {
+          "text": "把",
+          "beginMs": 4329,
+          "endMs": 4480
+        },
+        {
+          "text": "两",
+          "beginMs": 4480,
+          "endMs": 4650
+        },
+        {
+          "text": "数",
+          "beginMs": 4650,
+          "endMs": 4809
+        },
+        {
+          "text": "之",
+          "beginMs": 4809,
+          "endMs": 4940
+        },
+        {
+          "text": "和",
+          "beginMs": 4940,
+          "endMs": 5099
+        },
+        {
+          "text": "变",
+          "beginMs": 5099,
+          "endMs": 5289
+        },
+        {
+          "text": "成",
+          "beginMs": 5289,
+          "endMs": 5430
+        },
+        {
+          "text": "一",
+          "beginMs": 5430,
+          "endMs": 5539
+        },
+        {
+          "text": "次",
+          "beginMs": 5539,
+          "endMs": 5660
+        },
+        {
+          "text": "查",
+          "beginMs": 5660,
+          "endMs": 5849
+        },
+        {
+          "text": "找",
+          "beginMs": 5849,
+          "endMs": 6150
+        },
+        {
+          "text": "这",
+          "beginMs": 6599,
+          "endMs": 6749
+        },
+        {
+          "text": "就",
+          "beginMs": 6749,
+          "endMs": 6869
+        },
+        {
+          "text": "是",
+          "beginMs": 6869,
+          "endMs": 6999
+        },
+        {
+          "text": "哈",
+          "beginMs": 6999,
+          "endMs": 7190
+        },
+        {
+          "text": "希",
+          "beginMs": 7190,
+          "endMs": 7339
+        },
+        {
+          "text": "表",
+          "beginMs": 7339,
+          "endMs": 7519
+        },
+        {
+          "text": "最",
+          "beginMs": 7519,
+          "endMs": 7670
+        },
+        {
+          "text": "经",
+          "beginMs": 7670,
+          "endMs": 7859
+        },
+        {
+          "text": "典",
+          "beginMs": 7859,
+          "endMs": 7999
+        },
+        {
+          "text": "的",
+          "beginMs": 7999,
+          "endMs": 8070
+        },
+        {
+          "text": "用",
+          "beginMs": 8070,
+          "endMs": 8270
+        },
+        {
+          "text": "法",
+          "beginMs": 8270,
+          "endMs": 8629
+        },
+        {
+          "text": "我",
+          "beginMs": 9073,
+          "endMs": 9133
+        },
+        {
+          "text": "们",
+          "beginMs": 9133,
+          "endMs": 9233
+        },
+        {
+          "text": "下",
+          "beginMs": 9233,
+          "endMs": 9413
+        },
+        {
+          "text": "一",
+          "beginMs": 9413,
+          "endMs": 9513
+        },
+        {
+          "text": "题",
+          "beginMs": 9513,
+          "endMs": 9663
+        },
+        {
+          "text": "见",
+          "beginMs": 9663,
+          "endMs": 10043
+        }
+      ]
+    }
+  ]
+}
