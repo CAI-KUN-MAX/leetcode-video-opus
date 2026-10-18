@@ -34,7 +34,10 @@
     "dev": "remotion studio",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "lint": "eslint src && tsc",
+    "tts": "tsx scripts/tts/generate.ts",
+    "studio": "remotion studio",
+    "render": "remotion render"
   },
   "allowScripts": {
     "esbuild": false
