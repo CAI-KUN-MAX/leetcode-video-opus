@@ -9,6 +9,7 @@ import type { Scene, Script } from "../types";
 import { buildTimeline, getManifest } from "../lib/manifest";
 import { TitleCard } from "../components/TitleCard";
 import { Bullets } from "../components/Bullets";
+import { CodeBlock } from "../components/CodeBlock";
 import { Subtitle } from "../components/Subtitle";
 
 export type ProblemVideoProps = {
@@ -63,6 +64,8 @@ const SceneVisual: React.FC<{ scene: Scene }> = ({ scene }) => {
       return <TitleCard visual={scene.visual} />;
     case "bullets":
       return <Bullets visual={scene.visual} />;
+    case "code":
+      return <CodeBlock visual={scene.visual} />;
     default:
       return (
         <Placeholder
