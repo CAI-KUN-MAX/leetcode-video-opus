@@ -11,6 +11,9 @@ importers:
       '@alicloud/pop-core':
         specifier: ^1.8.0
         version: 1.8.0(supports-color@8.0.0)
+      '@remotion/captions':
+        specifier: 4.0.536
+        version: 4.0.536
       '@remotion/cli':
         specifier: 4.0.536
         version: 4.0.536(bufferutil@4.1.0)(postcss@8.5.30)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)(supports-color@8.0.0)(utf-8-validate@5.0.10)

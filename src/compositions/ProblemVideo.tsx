@@ -9,6 +9,7 @@ import type { Scene, Script } from "../types";
 import { buildTimeline, getManifest } from "../lib/manifest";
 import { TitleCard } from "../components/TitleCard";
 import { Bullets } from "../components/Bullets";
+import { Subtitle } from "../components/Subtitle";
 
 export type ProblemVideoProps = {
   problemId: string;
@@ -40,6 +41,11 @@ export const ProblemVideo: React.FC<ProblemVideoProps> = ({
         >
           <Audio src={staticFile(audio.file)} />
           <SceneVisual scene={scene} />
+          <Subtitle
+            words={audio.words}
+            sceneDurationMs={audio.totalMs}
+            holdMs={audio.holdMs}
+          />
         </Sequence>
       ))}
     </AbsoluteFill>

@@ -10,6 +10,7 @@
   "private": true,
   "dependencies": {
     "@alicloud/pop-core": "^1.8.0",
+    "@remotion/captions": "4.0.536",
     "@remotion/cli": "4.0.536",
     "@remotion/google-fonts": "^4.0.536",
     "alibabacloud-nls": "^1.0.4",
