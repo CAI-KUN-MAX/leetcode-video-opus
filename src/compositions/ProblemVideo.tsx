@@ -11,6 +11,8 @@ import { TitleCard } from "../components/TitleCard";
 import { Bullets } from "../components/Bullets";
 import { CodeBlock } from "../components/CodeBlock";
 import { ArrayViz } from "../components/ArrayViz";
+import { HashTable } from "../components/HashTable";
+import { Complexity } from "../components/Complexity";
 import { Subtitle } from "../components/Subtitle";
 
 export type ProblemVideoProps = {
@@ -57,7 +59,7 @@ export const ProblemVideo: React.FC<ProblemVideoProps> = ({
 
 /**
  * 按 scene.visual.type 分发到对应视觉组件。
- * 尚未实现的类型会显示占位页，便于逐个补齐而不影响预览。
+ * 联合类型已全部覆盖；新增视觉类型时 TS 会在此处报错，提醒补齐组件。
  */
 const SceneVisual: React.FC<{ scene: Scene }> = ({ scene }) => {
   switch (scene.visual.type) {
@@ -69,45 +71,9 @@ const SceneVisual: React.FC<{ scene: Scene }> = ({ scene }) => {
       return <CodeBlock visual={scene.visual} />;
     case "array":
       return <ArrayViz visual={scene.visual} />;
-    default:
-      return (
-        <Placeholder
-          sceneId={scene.id}
-          visualType={scene.visual.type}
-        />
-      );
+    case "hash-table":
+      return <HashTable visual={scene.visual} />;
+    case "complexity":
+      return <Complexity visual={scene.visual} />;
   }
-};
-
-const VISUAL_LABELS: Record<string, string> = {
-  code: "代码演示",
-  array: "数组动画",
-  "hash-table": "哈希表演示",
-  complexity: "复杂度总结",
-};
-
-const Placeholder: React.FC<{ sceneId: string; visualType: string }> = ({
-  sceneId,
-  visualType,
-}) => {
-  return (
-    <AbsoluteFill
-      style={{
-        alignItems: "center",
-        justifyContent: "center",
-        gap: 16,
-        backgroundColor: "#0A0E1A",
-        color: "#A7B0C0",
-        fontFamily:
-          '"Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif',
-      }}
-    >
-      <div style={{ fontSize: 40, fontWeight: 700, color: "#6C8CFF" }}>
-        {VISUAL_LABELS[visualType] ?? visualType}
-      </div>
-      <div style={{ fontSize: 26 }}>
-        场景「{sceneId}」的视觉组件尚未实现
-      </div>
-    </AbsoluteFill>
-  );
 };
